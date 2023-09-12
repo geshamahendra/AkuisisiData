@@ -1,0 +1,5 @@
+Temperature	Date	Time	Operator Name	
+85.810 	 10/21/2021 	 15:49:57 	 Gesha 	 
+85.810 	 10/21/2021 	 15:50:00 	 Gesha 	 
+86.290 	 10/21/2021 	 15:50:00 	 Gesha 	 
+85.810 	 10/21/2021 	 15:50:00 	 Gesha 	 

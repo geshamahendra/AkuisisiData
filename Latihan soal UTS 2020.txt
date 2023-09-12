@@ -1,0 +1,1 @@
+Temperature,Date,Time,Operator Name,
